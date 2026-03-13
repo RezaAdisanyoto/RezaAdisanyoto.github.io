@@ -1,73 +1,73 @@
 # RezaAdisanyoto.github.io
 
-## Account Type
+## Jenis Akun
 
-This is a **FREE** GitHub account using [GitHub Pages](https://pages.github.com/) to host a static website.
+Ini adalah akun GitHub **GRATIS** yang menggunakan [GitHub Pages](https://pages.github.com/) untuk menghosting website statis.
 
-- **Account plan:** GitHub Free
-- **Custom domain:** [referfbby.me](https://referfbby.me)
-- **Hosting:** GitHub Pages (available on free accounts for public repositories)
+- **Paket akun:** GitHub Free
+- **Domain kustom:** [referfbby.me](https://referfbby.me)
+- **Hosting:** GitHub Pages (tersedia di akun gratis untuk repositori publik)
 
-## Student Account → Can It Become Pro?
+## Akun Pelajar → Bisa Jadi Pro?
 
-**YES! 🎓** If you are a student, you can get **GitHub Pro for free** through the **[GitHub Student Developer Pack](https://education.github.com/pack)**.
+**BISA! 🎓** Kalau kamu pelajar, kamu bisa dapat **GitHub Pro secara gratis** lewat **[GitHub Student Developer Pack](https://education.github.com/pack)**.
 
-### What You Get with GitHub Student Developer Pack
+### Yang Kamu Dapat dari GitHub Student Developer Pack
 
-- ✅ **GitHub Pro** — unlocks advanced features such as protected branches, required reviewers, code owners, and more on private repositories
-- ✅ **GitHub Copilot** — AI pair programmer (free while you're a student)
-- ✅ Access to dozens of developer tools and services at no cost
+- ✅ **GitHub Pro** — membuka fitur-fitur canggih seperti protected branches, required reviewers, code owners, dan lainnya di repositori privat
+- ✅ **GitHub Copilot** — asisten coding berbasis AI (gratis selama kamu masih pelajar)
+- ✅ Akses ke puluhan tools dan layanan developer secara gratis
 
-### How to Apply
+### Cara Daftarnya
 
-1. Go to [https://education.github.com/pack](https://education.github.com/pack)
-2. Click **"Sign up for Student Developer Pack"**
-3. Sign in with your GitHub account
-4. Verify your student status with a school-issued email address or enrollment proof (e.g., student ID card)
-5. Wait for approval (usually takes a few days)
+1. Buka [https://education.github.com/pack](https://education.github.com/pack)
+2. Klik **"Sign up for Student Developer Pack"**
+3. Masuk dengan akun GitHub kamu
+4. Verifikasi status pelajar dengan email sekolah atau bukti pendaftaran (misalnya, kartu pelajar)
+5. Tunggu persetujuan (biasanya beberapa hari)
 
-Once approved, your free account will automatically be upgraded to **GitHub Pro** for as long as you remain a verified student.
+Setelah disetujui, akun gratismu akan otomatis diupgrade ke **GitHub Pro** selama kamu masih terdaftar sebagai pelajar terverifikasi.
 
-## How to Connect VS Code to GitHub
+## Cara Koneksi VS Code ke GitHub
 
-**VS Code** (Visual Studio Code) can be connected to GitHub so you can clone, commit, push, and pull repositories directly from the editor — no terminal required.
+**VS Code** (Visual Studio Code) bisa dihubungkan ke GitHub supaya kamu bisa clone, commit, push, dan pull repositori langsung dari editor — tanpa perlu terminal.
 
-### Prerequisites
+### Yang Perlu Disiapkan
 
 - Install [Visual Studio Code](https://code.visualstudio.com/download)
-- Install [Git](https://git-scm.com/downloads) on your computer
+- Install [Git](https://git-scm.com/downloads) di komputermu
 
-### Step 1 – Sign In to GitHub from VS Code
+### Langkah 1 – Login GitHub dari VS Code
 
-1. Open VS Code
-2. Click the **Accounts** icon (person icon) in the bottom-left sidebar
-3. Click **"Sign in to GitHub"**
-4. A browser window will open — log in with your GitHub credentials and click **"Authorize Visual Studio Code"**
-5. You'll be redirected back to VS Code, now signed in ✅
+1. Buka VS Code
+2. Klik ikon **Accounts** (ikon orang) di sidebar kiri bawah
+3. Klik **"Sign in to GitHub"**
+4. Browser akan terbuka — login dengan akun GitHub kamu dan klik **"Authorize Visual Studio Code"**
+5. Kamu akan diarahkan kembali ke VS Code, sekarang sudah login ✅
 
-### Step 2 – Clone a Repository
+### Langkah 2 – Clone Repositori
 
-1. Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac) to open the Command Palette
-2. Type **"Git: Clone Repository"** and select it
-3. Type your repository URL (e.g., `https://github.com/RezaAdisanyoto/RezaAdisanyoto.github.io`) or click **"Clone from GitHub"** to browse your repositories
-4. Choose a folder on your computer to save the project
-5. Click **"Open"** to open the cloned repo in VS Code
+1. Tekan `Ctrl+Shift+P` (Windows/Linux) atau `Cmd+Shift+P` (Mac) untuk membuka Command Palette
+2. Ketik **"Git: Clone Repository"** lalu pilih
+3. Masukkan URL repositorimu (contoh: `https://github.com/RezaAdisanyoto/RezaAdisanyoto.github.io`) atau klik **"Clone from GitHub"** untuk menelusuri repositorimu
+4. Pilih folder di komputermu untuk menyimpan project
+5. Klik **"Open"** untuk membuka repo yang sudah di-clone di VS Code
 
-### Step 3 – Make Changes and Push to GitHub
+### Langkah 3 – Buat Perubahan dan Push ke GitHub
 
-1. Edit files in VS Code as needed
-2. Open the **Source Control** panel (`Ctrl+Shift+G`)
-3. Hover over changed files and click **"+"** to stage them
-4. Type a commit message in the text box at the top
-5. Click the **✔ Commit** button (or press `Ctrl+Enter`)
-6. Click **"Sync Changes"** (or the **↑ Push** button) to push your commits to GitHub
+1. Edit file di VS Code sesuai kebutuhan
+2. Buka panel **Source Control** (`Ctrl+Shift+G`)
+3. Arahkan kursor ke file yang berubah lalu klik **"+"** untuk menambahkannya ke staging area
+4. Ketik pesan commit di kotak teks di bagian atas
+5. Klik tombol **✔ Commit** (atau tekan `Ctrl+Enter`)
+6. Klik **"Sync Changes"** (atau tombol **↑ Push**) untuk push commit ke GitHub
 
-### Useful VS Code Extensions for GitHub
+### Extension VS Code yang Berguna untuk GitHub
 
-| Extension | Purpose |
+| Extension | Kegunaan |
 |-----------|---------|
-| [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) | Review and manage PRs inside VS Code |
-| [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | See git blame, history, and more |
-| [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) | AI code suggestions (free for students) |
+| [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) | Review dan kelola PR langsung di VS Code |
+| [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | Lihat git blame, histori, dan lainnya |
+| [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) | Saran kode berbasis AI (gratis untuk pelajar) |
 
-> 💡 **Tip:** If you applied for the GitHub Student Developer Pack, you get **GitHub Copilot for free** — install the extension above and sign in with your GitHub account to activate it.
+> 💡 **Tips:** Kalau kamu sudah daftar GitHub Student Developer Pack, kamu dapat **GitHub Copilot gratis** — install extension di atas dan login dengan akun GitHub kamu untuk mengaktifkannya.
